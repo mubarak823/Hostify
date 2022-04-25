@@ -13,4 +13,5 @@
 * Type The Following Commands</br>
   <b>$ cd Hostify <- go to script Folder</br>
   $ bash go.sh <- run our script </br></b>
+  * Password: <b>MB</b>
 * Have Fun Exploring</br>
